@@ -70,4 +70,4 @@ Here are some ideas to get you started:
 [![Trophies](https://github-profile-trophy.vercel.app/?username=a-kholmovaia&theme=onedark&rank=AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Feeding...
-![Snake animation](https://github.com/a-kholmovaia/a-kholmovaia/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/a-kholmovaia/a-kholmovaia/output/github-contribution-grid-snake-dark.svg)
