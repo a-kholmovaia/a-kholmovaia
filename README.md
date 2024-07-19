@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Ali Kholmovaia 👋 </h1>
-<h3 align="center">Aspiring AI Engineer based in Germany </h3>
+<h3 align="center">Prospective AI Engineer based in Germany </h3>
 
 ## About me:
 
